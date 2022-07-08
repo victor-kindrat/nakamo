@@ -10,16 +10,19 @@
 4. Press enter
 5. Write: 
 
-
-    npm install express
+```sh
+npm install express
+```
+    
 6. Press enter
 7. Write: 
 
-    
-    node app
+```sh
+node app
+```
 8. Press enter and go to the page by url: 
-    
-    
-    http://localhost:8000/
+```sh
+ http://localhost:8000/
+```
 
 <center>Complete ⭐</center>
