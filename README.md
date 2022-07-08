@@ -2,6 +2,10 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/github/victor-kindrat/nakamo.svg)](https://wakatime.com/badge/github/victor-kindrat/nakamo)
+
+---
+
 ### For corrective work made instalation:
 
 1. Download ***.zip*** archive from GitHub and extract it
